@@ -25,8 +25,10 @@ gem 'jbuilder', '~> 2.5'
 # gem 'bcrypt', '~> 3.1.7'
 gem 'dotenv-rails'
 gem 'milia'
-# gem 'milia', :git => 'git://github.com/jekuno/milia.git', :branch => 'rails5-support'
 gem 'devise'
+gem 'twitter-bootstrap-rails'
+gem 'devise-bootstrap-views'
+gem 'jquery-rails'
 # Use ActiveStorage variant
 # gem 'mini_magick', '~> 4.8'
 
